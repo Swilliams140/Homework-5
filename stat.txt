@@ -1,0 +1,4 @@
+The sum of the numbers is: 550.0
+The lowest number is: 0.0
+The highest number is: 100.0
+The average of the numbers read is 55.0
